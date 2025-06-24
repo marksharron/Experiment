@@ -1,60 +1,6 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    line-height: 1.6;
-    background-color: #f5f5f5;
-    color: #333;
+.gold {
+    color: #d4af37;
 }
-
-header {
-    background-color: #964B00;
-    color: white;
-    text-align: center;
-    padding: 1rem 0;
-}
-
-.tagline {
-    margin: 0;
-    font-style: italic;
-}
-
-nav {
-    background-color: #ffe4b2;
-    padding: 0.5rem;
-}
-
-nav ul {
-    list-style: none;
-    display: flex;
-    justify-content: center;
-    margin: 0;
-    padding: 0;
-}
-
-nav li {
-    margin: 0 1rem;
-}
-
-nav a {
-    text-decoration: none;
-    color: #333;
-    font-weight: bold;
-}
-
-section {
-    padding: 1rem;
-    margin: 1rem auto;
-    max-width: 800px;
-    background-color: white;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
-
-footer {
-    text-align: center;
-    padding: 1rem 0;
-    background-color: #964B00;
-    color: white;
-    margin-top: 2rem;
+.bg-gold {
+    background-color: #d4af37;
 }
